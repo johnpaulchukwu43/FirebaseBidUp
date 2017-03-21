@@ -1,0 +1,28 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\CHUKWU JOHNPAUL\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.2.0
+[debug] Platform:     win32
+[debug] Node Version: v6.2.0
+[debug] Time:         Mon Mar 20 2017 13:25:58 GMT+0100 (W. Central Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\CHUKWU JOHNPAUL\Documents\PROGRAMZ\Firebase\database
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\CHUKWU JOHNPAUL\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.2.0
+[debug] Platform:     win32
+[debug] Node Version: v6.2.0
+[debug] Time:         Tue Mar 21 2017 12:11:05 GMT+0100 (W. Central Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\CHUKWU JOHNPAUL\Documents\PROGRAMZ\Firebase\FirebaseBidUp
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
